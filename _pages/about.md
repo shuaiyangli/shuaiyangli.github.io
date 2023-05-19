@@ -1,15 +1,15 @@
-<!-- ---
+---
 permalink: /
-title: "Shuaiyang Li"
+title: "Shuaiyang Li 李帅洋 in Chinese"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
---- -->
+---
 
-Shuaiyang Li, 李帅洋 in Chinese
-======
+<!-- Shuaiyang Li, 李帅洋 in Chinese
+====== -->
 
 PhD candidate  <br>
 [School of Computer Science and Information Engineering (SCSIE)](http://ci.hfut.edu.cn/)  <br>

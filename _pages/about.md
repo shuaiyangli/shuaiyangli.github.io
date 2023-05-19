@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Biography"
+title: "Shuaiyang Li"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,27 +8,36 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year PhD candidate from [Hefei University of Technology (HFUT)](http://www.hfut.edu.cn/). Before that, I received the M.S. degree from [Northeast Electric Power University (NEEPU)](http://www.neepu.edu.cn/) in 2018 and the B.E. degree from [Henan Normal University (HNU)](https://www.htu.edu.cn/) in 2014. My research interests include information retrieval, data mining, and multimedia analytics.
+PhD candidate  <br>
+<br>
+School of Computer Science and Information Engineering (SCSIE)  <br>
+<br>
+Hefei University of Technology (HFUT)  <br>
+<br>
+Email: shuaiyangli96 AT gmail.com  <br>
+
+Biography
+======
+I'm a PhD candidate from [Hefei University of Technology (HFUT)](http://www.hfut.edu.cn/). Before that, I received the M.S. degree from Northeast Electric Power University [(NEEPU)](http://www.neepu.edu.cn/) in 2018 and the B.E. degree from Henan Normal University [(HNU)](https://www.htu.edu.cn/) in 2014. My research interests include information retrieval, data mining, and multimedia analytics.
 
 Researches
 ======
-
+- Recommendation system
 
 Publications
 ======
-**Conference papers**:
-1. Shuaiyang Li, Dan Guo, Kang Liu, Richang Hong, and Feng Xue. 2023. Multimodal Counterfactual Learning Network for Multimedia-based Recommendation. In Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**), 2023: 1-10. [Code](https://github.com/shuaiyangli/MCLN)
+**Conference papers:**
+1. **Shuaiyang Li**, Dan Guo, Kang Liu, Richang Hong, and Feng Xue*. Multimodal Counterfactual Learning Network for Multimedia-based Recommendation. The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2023**). [(Code)](https://github.com/shuaiyangli/MCLN)
 
-**Journal papers**:
+**Journal papers:**
+
+**Patents:**
 
 
 Experience
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+- 2021.09-Now, Ph.D, School of Computer Science and Information Engineering [(SCSIE)](http://ci.hfut.edu.cn/), Hefei University of Technology.
+- 2018.09-2021.06, M.E, School of Electrical Engineering [(SEE)](https://ee.neepu.edu.cn/), Northeast Electric Power University.
+- 2014.09-2018.06, B.E, College of Computer and Information Engineering [(CCIE)](https://www.htu.edu.cn/cs/main.htm), Henan Normal University.
 
 

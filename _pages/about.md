@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year PhD candidate from Hefei University of Technology (HFUT)(http://www.hfut.edu.cn/). Before that, I received the M.S. degree from Northeast Electric Power University (NEEPU)(http://www.neepu.edu.cn/) in 2018 and the B.E. degree from Henan Normal University (HNU)(https://www.htu.edu.cn/) in 2014. My research interests include information retrieval, data mining, and multimedia analytics.
+I'm a second year PhD candidate from [Hefei University of Technology (HFUT)](http://www.hfut.edu.cn/). Before that, I received the M.S. degree from [Northeast Electric Power University (NEEPU)](http://www.neepu.edu.cn/) in 2018 and the B.E. degree from [Henan Normal University (HNU)](https://www.htu.edu.cn/) in 2014. My research interests include information retrieval, data mining, and multimedia analytics.
 
 Researches
 ======
@@ -16,10 +16,10 @@ Researches
 
 Publications
 ======
-Conference papers:
+**Conference papers**:
 1. Shuaiyang Li, Dan Guo, Kang Liu, Richang Hong, and Feng Xue. 2023. Multimodal Counterfactual Learning Network for Multimedia-based Recommendation. In Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**), 2023: 1-10. [Code](https://github.com/shuaiyangli/MCLN)
 
-Journal papers:
+**Journal papers**:
 
 
 Experience

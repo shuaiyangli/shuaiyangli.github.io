@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shuaiyang Li 李帅洋 in Chinese"
+title: "Shuaiyang Li, 李帅洋 in Chinese"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

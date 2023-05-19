@@ -1,4 +1,4 @@
-# Shuaiyang Li (李帅洋)
+# Shuaiyang Li, 李帅洋
 This is Shuaiyang Li's personal [homepage](https://shuaiyangli.github.io/).
 
 ## Biography

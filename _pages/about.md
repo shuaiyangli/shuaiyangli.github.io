@@ -8,12 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-<!-- Shuaiyang Li, 李帅洋 in Chinese
-====== -->
-
 Ph.D candidate  <br>
-[School of Computer Science and Information Engineering (SCSIE)](http://ci.hfut.edu.cn/)  <br>
-[Hefei University of Technology (HFUT)](http://www.hfut.edu.cn/) <br>
+[School of Computer Science and Information Engineering](http://ci.hfut.edu.cn/) <br>
+[Hefei University of Technology](http://www.hfut.edu.cn/), Hefei, China <br>
+<br>
+<br>
 Email: shuaiyangli96 AT gmail.com  <br>
 
 Biography
@@ -27,7 +26,7 @@ Researches
 Publications
 ======
 **Conference papers:** <br>
-- **Shuaiyang Li**, Dan Guo, Kang Liu, Richang Hong, and Feng Xue*. Multimodal Counterfactual Learning Network for Multimedia-based Recommendation. The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2023**). [(Code)](https://github.com/shuaiyangli/MCLN)
+- **Shuaiyang Li**, Dan Guo, Kang Liu, Richang Hong, and Feng Xue*. Multimodal Counterfactual Learning Network for Multimedia-based Recommendation. The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2023**). [[Code]](https://github.com/shuaiyangli/MCLN)
 
 **Journal papers:**
 <br>

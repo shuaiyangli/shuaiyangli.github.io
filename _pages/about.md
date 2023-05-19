@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Ph.D candidate  <br>
+Ph.D. candidate  <br>
 [School of Computer Science and Information Engineering](http://ci.hfut.edu.cn/) <br>
 [Hefei University of Technology](http://www.hfut.edu.cn/), Hefei, China <br>
 <br>
@@ -17,7 +17,7 @@ Email: shuaiyangli96 AT gmail.com  <br>
 
 Biography
 ======
-I'm a Ph.D candidate from [Hefei University of Technology (HFUT)](http://www.hfut.edu.cn/). Before that, I received the M.S. degree from Northeast Electric Power University [(NEEPU)](http://www.neepu.edu.cn/) in 2018 and the B.E. degree from Henan Normal University [(HNU)](https://www.htu.edu.cn/) in 2014. My research interests include information retrieval, data mining, and multimedia analytics.
+I'm a Ph.D. candidate from [Hefei University of Technology (HFUT)](http://www.hfut.edu.cn/). Before that, I received the Master degree from Northeast Electric Power University [(NEEPU)](http://www.neepu.edu.cn/) in 2018 and the B.Eng. degree from Henan Normal University [(HNU)](https://www.htu.edu.cn/) in 2014. My research interests include information retrieval, data mining, and multimedia analytics.
 
 Researches
 ======
@@ -26,17 +26,19 @@ Researches
 Publications
 ======
 **Conference papers:** <br>
-- **Shuaiyang Li**, Dan Guo, Kang Liu, Richang Hong, and Feng Xue*. Multimodal Counterfactual Learning Network for Multimedia-based Recommendation. The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2023**). [[Link]](https://dl.acm.org/doi/10.1145/3539618.3591739)[[Code]](https://github.com/shuaiyangli/MCLN)
+- **_Shuaiyang Li_**, Dan Guo, Kang Liu, Richang Hong, and Feng Xue*. Multimodal Counterfactual Learning Network for Multimedia-based Recommendation. The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (**_SIGIR 2023_**). [[Link]](https://dl.acm.org/doi/10.1145/3539618.3591739)[[Code]](https://github.com/shuaiyangli/MCLN)
 
-**Journal papers:**
+**Journal papers:** <br>
 <br>
-**Patents:**
-
+<br>
+**Patents:** <br>
+<br>
+<br>
 
 Experience
 ======
-- 2021.09-Now, Ph.D, School of Computer Science and Information Engineering [(SCSIE)](http://ci.hfut.edu.cn/), Hefei University of Technology.
-- 2018.09-2021.06, M.E, School of Electrical Engineering [(SEE)](https://ee.neepu.edu.cn/), Northeast Electric Power University.
-- 2014.09-2018.06, B.E, College of Computer and Information Engineering [(CCIE)](https://www.htu.edu.cn/cs/main.htm), Henan Normal University.
+- 2021.09 ~ Now, Ph.D., School of Computer Science and Information Engineering [(SCSIE)](http://ci.hfut.edu.cn/), Hefei University of Technology, China.
+- 2018.09 ~ 2021.06, Master, School of Electrical Engineering [(SEE)](https://ee.neepu.edu.cn/), Northeast Electric Power University, China.
+- 2014.09 ~ 2018.06, B.Eng., College of Computer and Information Engineering [(CCIE)](https://www.htu.edu.cn/cs/main.htm), Henan Normal University, China.
 
 

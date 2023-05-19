@@ -1,4 +1,4 @@
----
+<!-- ---
 permalink: /
 title: "Shuaiyang Li"
 excerpt: "About me"
@@ -6,14 +6,14 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
+--- -->
+
+Shuaiyang Li, 李帅洋 in Chinese
+======
 
 PhD candidate  <br>
-<br>
-School of Computer Science and Information Engineering (SCSIE)  <br>
-<br>
-Hefei University of Technology (HFUT)  <br>
-<br>
+[School of Computer Science and Information Engineering (SCSIE)](http://ci.hfut.edu.cn/)  <br>
+[Hefei University of Technology (HFUT)](http://www.hfut.edu.cn/) <br>
 Email: shuaiyangli96 AT gmail.com  <br>
 
 Biography

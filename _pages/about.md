@@ -13,7 +13,7 @@ Ph.D. candidate  <br>
 [Hefei University of Technology](http://www.hfut.edu.cn/), Hefei, China <br>
 <br>
 <br>
-Email: shuaiyangli96 AT gmail.com  <br>
+**Email:** shuaiyangli96 AT gmail.com  <br>
 
 Biography
 ======
@@ -21,12 +21,14 @@ I'm a Ph.D. candidate from [Hefei University of Technology (HFUT)](http://www.hf
 
 Researches
 ======
-- Recommendation system
+- Data Mining
+- Recommender Systems
+- Multimedia Analytics
 
 Publications
 ======
 **Conference papers:** <br>
-- **_Shuaiyang Li_**, Dan Guo, Kang Liu, Richang Hong, and Feng Xue*. Multimodal Counterfactual Learning Network for Multimedia-based Recommendation. The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (**_SIGIR 2023_**). [[Link]](https://dl.acm.org/doi/10.1145/3539618.3591739)[[Code]](https://github.com/shuaiyangli/MCLN)
+- **_Shuaiyang Li_**, Dan Guo, Kang Liu, Richang Hong, and Feng Xue. Multimodal Counterfactual Learning Network for Multimedia-based Recommendation. The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (**_SIGIR 2023_**). [[Link]](https://dl.acm.org/doi/10.1145/3539618.3591739)[[Code]](https://github.com/shuaiyangli/MCLN)
 
 **Journal papers:** <br>
 <br>
@@ -39,6 +41,8 @@ Experience
 ======
 - 2021.09 ~ Now, Ph.D., School of Computer Science and Information Engineering [(SCSIE)](http://ci.hfut.edu.cn/), Hefei University of Technology, China.
 - 2018.09 ~ 2021.06, Master, School of Electrical Engineering [(SEE)](https://ee.neepu.edu.cn/), Northeast Electric Power University, China.
-- 2014.09 ~ 2018.06, B.Eng., College of Computer and Information Engineering [(CCIE)](https://www.htu.edu.cn/cs/main.htm), Henan Normal University, China.
-
-
+- 2014.09 ~ 2018.06, B.Eng., College of Computer and Information Engineering [(CCIE)](https://www.htu.edu.cn/cs/main.htm), Henan Normal University, China.<br>
+<br>
+<br>
+<br>
+Last updated on Mar. 20, 2023

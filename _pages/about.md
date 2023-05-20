@@ -36,7 +36,6 @@ Publications
 **Patents:** <br>
 <br>
 <br>
-
 Experience
 ======
 - 2021.09 ~ Now, Ph.D., School of Computer Science and Information Engineering [(SCSIE)](http://ci.hfut.edu.cn/), Hefei University of Technology, China.
@@ -44,5 +43,4 @@ Experience
 - 2014.09 ~ 2018.06, B.Eng., College of Computer and Information Engineering [(CCIE)](https://www.htu.edu.cn/cs/main.htm), Henan Normal University, China.<br>
 <br>
 <br>
-<br>
-Last updated on Mar. 20, 2023
+<p align="right"><font color="#dd0000">© Shuaiyang Li 2023</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font color="#dd0000">Last updated on Mar. 20, 2023</font></p>

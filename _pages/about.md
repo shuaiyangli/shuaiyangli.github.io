@@ -1,4 +1,4 @@
----
+<!-- ---
 permalink: /
 title: "Shuaiyang Li, 李帅洋 in Chinese"
 excerpt: "About me"
@@ -6,8 +6,10 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
+--- -->
 
+<b><font color="#07689C">Shuaiyang Li </font>, <font face="华文行楷" color="#07689C">李帅洋</font> in Chinese</b> <br>
+=====
 Ph.D. candidate  <br>
 [School of Computer Science and Information Engineering](http://ci.hfut.edu.cn/) <br>
 [Hefei University of Technology](http://www.hfut.edu.cn/), Hefei, China <br>
@@ -21,6 +23,25 @@ I'm a Ph.D. candidate from [Hefei University of Technology (HFUT)](http://www.hf
 
 Researches
 ======
+<!-- <tr>
+<tr>
+  <tr>
+    <td>
+      <div align="left">
+        <img src="../assets/SIGIR2023Li/overview.png" alt="" class="img_overview">
+      </div>
+    </td>
+    <td valign="baseline">
+      <b>Multimodal Counterfactual Learning Network for Multimedia-based Recommendation</b><br>
+      <strong>Shuaiyang Li<strong>, Dan Guo, Kang Liu, Richang Hong, and Feng Xue<br>
+      The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (<strong>SIGIR</strong>), 2023
+      <br>
+      [<a href="https://dl.acm.org/doi/10.1145/3539618.3591739" target="_blank">Link</a>]
+      [<a href="../assets/SIGIR2023Li/paper.pdf" target="_blank">Paper</a>]
+      [<a href="../assets/SIGIR2023Li/bib.html" target="_blank">BibTex</a>]
+      [<a href="https://github.com/shuaiyangli/MCLN" target="_blank">Code</a>]
+    </td>
+  </tr>  -->
 - Data Mining
 - Recommender Systems
 - Multimedia Analytics
@@ -28,7 +49,7 @@ Researches
 Publications
 ======
 **Conference papers:** <br>
-- **_Shuaiyang Li_**, Dan Guo, Kang Liu, Richang Hong, and Feng Xue. Multimodal Counterfactual Learning Network for Multimedia-based Recommendation. The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (**_SIGIR 2023_**). [[Link]](https://dl.acm.org/doi/10.1145/3539618.3591739)[[Code]](https://github.com/shuaiyangli/MCLN)
+- **_Shuaiyang Li_**, Dan Guo, Kang Liu, Richang Hong, and Feng Xue. Multimodal Counterfactual Learning Network for Multimedia-based Recommendation. The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (**_SIGIR 2023_**). [[Link]](https://dl.acm.org/doi/10.1145/3539618.3591739)[[paper]](../assets/SIGIR2023Li/paper.pdf)[[Code]](https://github.com/shuaiyangli/MCLN)
 
 **Journal papers:** <br>
 <br>
@@ -43,4 +64,4 @@ Experience
 <br>
 
 ---
-<p align="right"><font color="#660000">© Shuaiyang Li 2023</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font color="#660000">Last updated on Mar. 20, 2023</font></p>
+<p align="right"><font color="#800000">&copy; Shuaiyang Li 2023</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font color="#660000">Last updated on Mar. 20, 2023</font></p>

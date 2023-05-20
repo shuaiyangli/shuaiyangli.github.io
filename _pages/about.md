@@ -1,4 +1,4 @@
-<!-- ---
+---
 permalink: /
 title: "Shuaiyang Li, 李帅洋 in Chinese"
 excerpt: "About me"
@@ -6,10 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
---- -->
-
-<b><font color="#07689C">Shuaiyang Li </font>, <font face="华文行楷" color="#07689C">李帅洋</font> in Chinese</b> <br>
-=====
+---
 Ph.D. candidate  <br>
 [School of Computer Science and Information Engineering](http://ci.hfut.edu.cn/) <br>
 [Hefei University of Technology](http://www.hfut.edu.cn/), Hefei, China <br>

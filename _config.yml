@@ -146,6 +146,7 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - sitemap.xml  
 keep_files:
   - .git
   - .svn
@@ -309,6 +310,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-exclude:
-  - sitemap.xml    
 

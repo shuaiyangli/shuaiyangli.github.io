@@ -61,4 +61,4 @@ Experience
 <br>
 
 ---
-<p align="right"><font color="#800000">&copy; Shuaiyang Li 2023</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font color="#660000">Last updated on Mar. 20, 2023</font></p>
+<p align="right"><font color="#800000">&copy; Shuaiyang Li 2023</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font color="#660000">Last updated on Mar. 25, 2023</font></p>

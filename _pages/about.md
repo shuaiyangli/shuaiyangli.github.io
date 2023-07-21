@@ -46,7 +46,7 @@ Researches
 Publications
 ======
 **Conference papers:** <br>
-- **_Shuaiyang Li_**, Dan Guo, Kang Liu, Richang Hong, and Feng Xue. Multimodal Counterfactual Learning Network for Multimedia-based Recommendation. The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (**_SIGIR 2023_**). [[Link]](https://dl.acm.org/doi/10.1145/3539618.3591739)[[paper]](../assets/SIGIR2023Li/paper.pdf)[[Code]](https://github.com/shuaiyangli/MCLN)
+- **_Shuaiyang Li_**, Dan Guo, Kang Liu, Richang Hong, and Feng Xue. Multimodal Counterfactual Learning Network for Multimedia-based Recommendation. The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2023), 1539–1548, July 23–27, Taipei, Taiwan. [[Link]](https://dl.acm.org/doi/10.1145/3539618.3591739)[[PDF]](../assets/SIGIR2023Li/paper.pdf)[[Code]](https://github.com/shuaiyangli/MCLN)
 
 **Journal papers:** <br>
 <br>
@@ -61,4 +61,4 @@ Experience
 <br>
 
 ---
-<p align="right"><font color="#800000">&copy; Shuaiyang Li 2023</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font color="#660000">Last updated on Mar. 25, 2023</font></p>
+<p align="right"><font color="#800000">&copy; Shuaiyang Li 2023</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font color="#660000">Last updated on Jul. 19, 2023</font></p>

@@ -55,9 +55,9 @@ Publications
 
 Experience
 ======
-- 2021.09 ~ Now, Ph.D., School of Computer Science and Information Engineering [(SCSIE)](http://ci.hfut.edu.cn/), Hefei University of Technology, China.
-- 2018.09 ~ 2021.06, Master, School of Electrical Engineering [(SEE)](https://ee.neepu.edu.cn/), Northeast Electric Power University, China.
-- 2014.09 ~ 2018.06, B.Eng., College of Computer and Information Engineering [(CCIE)](https://www.htu.edu.cn/cs/main.htm), Henan Normal University, China.<br>
+- 2021.09 ~ Now, Ph.D., Hefei University of Technology, China.
+- 2018.09 ~ 2021.06, Master, Northeast Electric Power University, China.
+- 2014.09 ~ 2018.06, B.Eng., Henan Normal University, China.<br>
 <br>
 
 ---
